@@ -1,5 +1,5 @@
 {
-    "name": "My Project",
+    "name": "Rails Test Project",
     "dockerComposeFile": "../docker-compose.yml",
     "service": "web",
     "workspaceFolder": "/app",
